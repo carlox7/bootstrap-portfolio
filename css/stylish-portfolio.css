@@ -248,7 +248,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content {
-  color: #212529;
+  color: #fff;
   margin: auto 2rem 2rem;
 }
 
@@ -364,7 +364,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-secondary {
-  color: #4717F6 !important;
+  color: #212529 !important;
 }
 
 #myVideo {
