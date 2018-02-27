@@ -4,10 +4,6 @@ html {
   height: 100%;
 }
 
-a, u {
-    text-decoration: none;
-}
-
 body {
   font-family: 'Source Sans Pro';
 }
@@ -208,7 +204,7 @@ h6 {
 
 .service-icon {
   background-color: #fff;
-  color: #1D809F;
+  color: #4717F6;
   height: 7rem;
   width: 7rem;
   display: block;
@@ -252,7 +248,7 @@ h6 {
 }
 
 .portfolio-item .caption .caption-content {
-  color: #fff;
+  color: #212529;
   margin: auto 2rem 2rem;
 }
 
@@ -320,7 +316,8 @@ footer.footer .social-link:hover {
 }
 
 a {
-  color: #1D809F;
+  color: #4717F6;
+  text-decoration: none;
 }
 
 a:hover, a:focus, a:active {
@@ -363,7 +360,7 @@ a:hover, a:focus, a:active {
 }
 
 .text-primary {
-  color: #1D809F !important;
+  color: #212529 !important;
 }
 
 .text-secondary {
